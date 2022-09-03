@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ooyuo/ArchitectureAgency/issues"
   },
-  "homepage": "http://ooyuo.github.io/ArchitectureAgency"
+  "homepage": "http://ooyuo.github.io/ArchitectureAgency",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
